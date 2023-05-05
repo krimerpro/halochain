@@ -12,7 +12,7 @@
 <!-- HEADER AREA START -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <div class="container">
-        <a class="navbar-brand" href="index.html">Abraham Simpson Coin<b>.</b></a>
+        <a class="navbar-brand" href="#">Abraham Simpson Coin<b>.</b></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars" aria-hidden="true"></i>
         </button>
