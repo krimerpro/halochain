@@ -12,8 +12,8 @@
             <div class="col-lg-7 banner-txt">
                 <h3>Abraham Simpson Coin</h3>
                 <p>Invest in $Abraham, the most hype and safe play memecoin inspired by Abraham Simpson.</p>
-                <a href="https://t.me/">Join Us</a>
-                <a href="https://pancakeswap.finance/swap?outputCurrency=">Buy $Abraham</a>
+                <a href="https://t.me/AbrahamSimpsonCoin">Join Us</a>
+                <a href="https://pancakeswap.finance/swap?outputCurrency=0xD00f259224636e0cAa1c8a1c530e5A4673500E58">Buy $Abraham</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
