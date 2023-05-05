@@ -200,7 +200,7 @@
                             <h3>Join Our Official Telegram Group</h3>
                         </div>
                         <div class="col-lg-3 col-md-5 subscripe-btn">
-                            <a href="https://t.me/" >JOIN US</a>
+                            <a href="https://t.me/AbrahamSimpsonCoin" >JOIN US</a>
                         </div>
                     </div>
                 </div>
