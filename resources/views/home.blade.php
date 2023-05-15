@@ -137,7 +137,7 @@
                                 <div class="chart" data-percent="75">
                                 </div>
                                 <h5>2</h5>
-                                <span>4 BNB 初始流动资金池</span>
+                                <span>2 BNB 初始流动资金池</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4  col-sm-3 col-md-4">
                                 <div class="chart" data-percent="65">
@@ -148,7 +148,7 @@
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="55">
                                 </div>
-                                <h5>1%</h5>
+                                <h5>2%</h5>
                                 <span>最大交易和最大钱包</span>
                             </div>
                         </div>
