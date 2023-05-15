@@ -12,23 +12,23 @@
 <!-- HEADER AREA START -->
 <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
     <div class="container">
-        <a class="navbar-brand" href="#">Abraham Simpson Coin<b>.</b></a>
+        <a class="navbar-brand" href="#">HALO CHAIN<b style="color:#EFC005">.</b></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars" aria-hidden="true"></i>
         </button>
         <div class="collapse navbar-collapse menu-main" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto menu-item">
                 <li class="nav-item">
-                    <a class="nav-link" href="#banner">Home</a>
+                    <a class="nav-link" href="#banner">家</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#aboutus">About Us</a>
+                    <a class="nav-link" href="#aboutus">关于我们</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#tokenomics">Tokenomics</a>
+                    <a class="nav-link" href="#tokenomics">代币经济学</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link bor" href="#" data-toggle="modal" data-target="#exampleModal">Connect Wallet</a>
+                    <a class="nav-link bor" href="#" data-toggle="modal" data-target="#exampleModal">$HALO区块链</a>
                 </li>
             </ul>
         </div>
