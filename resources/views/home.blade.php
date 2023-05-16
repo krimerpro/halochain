@@ -142,13 +142,13 @@
                             <div class="counter-1 col-4 col-lg-4  col-sm-3 col-md-4">
                                 <div class="chart" data-percent="65">
                                 </div>
-                                <h5>5%</h5>
+                                <h5>2%</h5>
                                 <span>税</span>
                             </div>
                             <div class="counter-1 col-4 col-lg-4 col-sm-3 col-md-4">
                                 <div class="chart" data-percent="55">
                                 </div>
-                                <h5>2%</h5>
+                                <h5>4%</h5>
                                 <span>最大交易和最大钱包</span>
                             </div>
                         </div>
