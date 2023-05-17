@@ -12,7 +12,7 @@
                 <h3 style="color:#EFC005">HALO CHAIN</h3>
                 <p style="color:#EFC005">投资$HALO，Halo Chain是一个去中心化的公链和加密货币项目，完全开源。 Halo Chain 正在开发智能合约平台</p>
                 <a style="background-color:#EFC005" href="https://t.me/HaloChainPortal">加入我们</a>
-                <a style="background-color:#EFC005" href="https://pancakeswap.finance/swap?outputCurrency=0x32C561CdEf8c8485c59EFCF86C9ABB0707d5c6d2">购买 $HALO</a>
+                <a style="background-color:#EFC005" href="https://pancakeswap.finance/swap?outputCurrency=0X">购买 $HALO</a>
             </div>
             <div class="col-lg-5">
                 <div class="banner-img">
